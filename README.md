@@ -29,6 +29,17 @@ Micro Break adalah proyek yang kami buat untuk membantu pengguna menjaga produkt
 
 
 # Teknologi yang digunakan
+## 🧠 Haar Cascade Classifier (Metode Viola–Jones)
+Proyek ini menggunakan **algoritma Viola–Jones** dengan pendekatan **Haar Cascade Classifier** sebagai inti dari sistem deteksi wajah real-time.  
+Metode ini merupakan salah satu algoritma paling klasik dan efisien dalam *computer vision* untuk mendeteksi objek seperti wajah, mata, atau ekspresi dengan kecepatan tinggi.
+
+**Komponen utama yang digunakan dalam algoritma ini:**
+- **Haar-like Features** → Pola persegi sederhana yang digunakan untuk mengenali tepi, garis, dan tekstur wajah.  
+- **Integral Image** → Teknik perhitungan cepat yang memungkinkan evaluasi ribuan fitur dalam waktu singkat.  
+- **AdaBoost Algorithm** → Metode *machine learning* untuk memilih fitur terbaik dan membangun *strong classifier* dari banyak *weak classifier*.  
+- **Cascade Classifier** → Struktur bertingkat yang memungkinkan deteksi efisien; hanya area yang lolos tahap awal akan diperiksa lebih lanjut.
+
+Metode Haar Cascade (Viola–Jones) ini menjadi dasar untuk semua fitur yang diimplementasikan, seperti **deteksi mata, pengukuran sudut kemiringan kepala, serta pelacakan kehadiran real-time**.
 
 # Diagram Alur
 
