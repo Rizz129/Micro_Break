@@ -61,8 +61,9 @@ Secara keseluruhan, flowchart ini menggambarkan mekanisme **pemantauan kehadiran
 - Mengakhiri sesi otomatis ketika waktu target tercapai  
 
 # Hasil Tampilan 
+Berikut Tampilan dari Program :
 <div align="center">
-  <img src="" width="700">
+  <img src="https://github.com/Rizz129/Micro_Break/blob/a73ad392202562ec4a469de377cebab40aa96f61/WhatsApp%20Image%202025-11-12%20at%2017.54.42.jpeg" width="700">
 </div>
 
 # PPT Presentasi
