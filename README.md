@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rizz129/Micro_Break/blob/87641a42edcea62e314d8a08069f6d7af6957936/image.png" width="700">
+  <img src="" width="700">
 </div>
 
 # MICRO BREAK
