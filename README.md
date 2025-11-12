@@ -68,7 +68,7 @@ Berikut Tampilan dari Program :
 
 ## PPT Presentasi
 Berikut PPT hasil diskusi kami :
-https://www.canva.com/design/DAG238BvUk4/kmnByCLS3oSqd_ca6GUCdA/edit?utm_content=DAG238BvUk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+(https://www.canva.com/design/DAG4eoIGsBo/0m97N4Xe-pMMDhgKLspoGw/edit?utm_content=DAG4eoIGsBo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Video Demo
 Link Video:
