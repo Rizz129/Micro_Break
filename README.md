@@ -2,7 +2,7 @@
   <img src="https://github.com/Rizz129/Micro_Break/blob/87641a42edcea62e314d8a08069f6d7af6957936/image.png" width="700">
 </div>
 
-# Micro_Break
+# MICRO BREAK
 Micro Break adalah proyek yang kami buat untuk membantu pengguna menjaga produktivitas dan kesehatan selama bekerja di depan komputer. Sistem ini dirancang untuk memberikan pengingat istirahat singkat (micro break) secara berkala, agar pengguna dapat meregangkan tubuh, mengistirahatkan mata, dan mengurangi kelelahan.
 
 ## Team Pengembang
