@@ -41,7 +41,7 @@ Metode ini merupakan salah satu algoritma paling klasik dan efisien dalam *compu
 
 Metode Haar Cascade (Viola–Jones) ini menjadi dasar untuk semua fitur yang diimplementasikan, seperti **deteksi mata, pengukuran sudut kemiringan kepala, serta pelacakan kehadiran real-time**.
 
-# Diagram Alur
+## Diagram Alur
 <div align="center">
   <img src="https://github.com/Rizz129/Micro_Break/blob/726d451253cc166974a2fa56e7ca085e238d98dd/image.png" width="700">
 </div>
@@ -60,16 +60,16 @@ Secara keseluruhan, flowchart ini menggambarkan mekanisme **pemantauan kehadiran
 - Melakukan reset saat wajah tidak terdeteksi selama 10 detik  
 - Mengakhiri sesi otomatis ketika waktu target tercapai  
 
-# Hasil Tampilan 
+## Hasil Tampilan 
 Berikut Tampilan dari Program :
 <div align="center">
   <img src="https://github.com/Rizz129/Micro_Break/blob/a73ad392202562ec4a469de377cebab40aa96f61/WhatsApp%20Image%202025-11-12%20at%2017.54.42.jpeg" width="700">
 </div>
 
-# PPT Presentasi
+## PPT Presentasi
 Berikut PPT hasil diskusi kami :
 https://www.canva.com/design/DAG238BvUk4/kmnByCLS3oSqd_ca6GUCdA/edit?utm_content=DAG238BvUk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-# Video Demo
+## Video Demo
 Link Video:
 https://youtu.be/eMaV0exm4vY?si=GOEUj-h-cfak8Ri1
