@@ -46,6 +46,20 @@ Metode Haar Cascade (Viola–Jones) ini menjadi dasar untuk semua fitur yang dii
   <img src="https://github.com/Rizz129/Micro_Break/blob/726d451253cc166974a2fa56e7ca085e238d98dd/image.png" width="700">
 </div>
 
+Flowchart di atas menjelaskan proses kerja sistem **real-time face detection & presence tracking**.  
+Proses dimulai ketika kamera diaktifkan untuk menangkap frame video secara berkelanjutan. Sistem kemudian memeriksa apakah terdapat **wajah yang terdeteksi** dalam frame.
+
+Jika wajah terdeteksi, program akan menghitung **selisih waktu (ΔT)** antar frame dan menambahkannya ke dalam **total waktu kehadiran pengguna**. Perhitungan ini terus berlanjut selama wajah masih terlihat di depan kamera.
+
+Apabila wajah tidak terdeteksi, sistem akan mulai menghitung durasi kehilangan. Jika kondisi ini berlangsung lebih dari **10 detik**, maka **waktu sesi akan direset secara otomatis**, dan penghitungan dimulai ulang.
+
+Sistem juga melakukan pengecekan apakah **total waktu kehadiran telah mencapai target** (misalnya 1 menit). Jika sudah tercapai dan wajah masih terdeteksi, maka program akan **berhenti otomatis**.
+
+Secara keseluruhan, flowchart ini menggambarkan mekanisme **pemantauan kehadiran otomatis berbasis deteksi wajah**, yang mampu:
+- Menghitung durasi kehadiran pengguna secara real-time  
+- Melakukan reset saat wajah tidak terdeteksi selama 10 detik  
+- Mengakhiri sesi otomatis ketika waktu target tercapai  
+
 # Hasil Tampilan 
 
 # PPT Presentasi
