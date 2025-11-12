@@ -63,7 +63,8 @@ Secara keseluruhan, flowchart ini menggambarkan mekanisme **pemantauan kehadiran
 # Hasil Tampilan 
 
 # PPT Presentasi
-Berikut PPT hasil diskusi kami
+Berikut PPT hasil diskusi kami :
+https://www.canva.com/design/DAG238BvUk4/kmnByCLS3oSqd_ca6GUCdA/edit?utm_content=DAG238BvUk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Video Demo
 Link Video:
