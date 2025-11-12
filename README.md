@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rizz129/Micro_Break/blob/c2148a9fa9f2a17811f0ca516b8a135069731de4/gambar/Blue%20Modern%20Professional%20Organizational%20Chart%20Graph.png" width="700">
+  <img src="" width="700">
 </div>
 
 # MICRO BREAK
