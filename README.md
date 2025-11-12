@@ -61,6 +61,9 @@ Secara keseluruhan, flowchart ini menggambarkan mekanisme **pemantauan kehadiran
 - Mengakhiri sesi otomatis ketika waktu target tercapai  
 
 # Hasil Tampilan 
+<div align="center">
+  <img src="" width="700">
+</div>
 
 # PPT Presentasi
 Berikut PPT hasil diskusi kami :
