@@ -72,4 +72,4 @@ Berikut PPT hasil diskusi kami :
 
 ## Video Demo
 Link Video:
-https://youtu.be/eMaV0exm4vY?si=GOEUj-h-cfak8Ri1
+(https://youtu.be/eMaV0exm4vY?si=GOEUj-h-cfak8Ri1)
