@@ -42,6 +42,9 @@ Metode ini merupakan salah satu algoritma paling klasik dan efisien dalam *compu
 Metode Haar Cascade (Viola–Jones) ini menjadi dasar untuk semua fitur yang diimplementasikan, seperti **deteksi mata, pengukuran sudut kemiringan kepala, serta pelacakan kehadiran real-time**.
 
 # Diagram Alur
+<div align="center">
+  <img src="https://github.com/Rizz129/Micro_Break/blob/726d451253cc166974a2fa56e7ca085e238d98dd/image.png" width="700">
+</div>
 
 # Hasil Tampilan 
 
