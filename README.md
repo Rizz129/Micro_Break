@@ -9,3 +9,18 @@ Micro Break adalah proyek yang kami buat untuk membantu pengguna menjaga produkt
 | 3 | Ahmad Miftahur Rif'at  | 2122600046 |
 | 4 | Dera Berlian      | 2122600057 |
 
+# Fitur
+1. Deteksi ngantuk secara real-time
+2. Peringatan otomatis menggunakan Alarm / Notifikasi saat terdeteksi microsleep
+
+# Teknologi yang digunakan
+
+# Diagram Alur
+
+# Hasil Tampilan 
+
+# PPT Presentasi
+Berikut PPT hasil diskusi kami
+
+# Video Demo
+Link Video:
